@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ebac Exemplos.iml" filepath="$PROJECT_DIR$/.idea/Ebac Exemplos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExMod7/ExMod7.iml" filepath="$PROJECT_DIR$/ExMod7/ExMod7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExMod8/ExMod8.iml" filepath="$PROJECT_DIR$/ExMod8/ExMod8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pe/Pe.iml" filepath="$PROJECT_DIR$/Pe/Pe.iml" />
+    </modules>
+  </component>
+</project>
