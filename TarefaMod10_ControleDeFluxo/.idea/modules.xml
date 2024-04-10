@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TarefaMod10.iml" filepath="$PROJECT_DIR$/TarefaMod10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TarefaMod10_ControleDeFluxo.iml" filepath="$PROJECT_DIR$/TarefaMod10_ControleDeFluxo.iml" />
     </modules>
   </component>
 </project>
